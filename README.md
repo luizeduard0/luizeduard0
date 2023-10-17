@@ -2,8 +2,24 @@
 
 Award-winning Software Engineer with 16+ years in the software development space. I help building customer-facing web applications, dashboards, back-office and more using cutting-edge technologies.
 
-**Technical Skills & Tools**
-React.js, Node.js, PHP, Laravel, MongoDB, MySQL, NoSQL, Redux, Redux Saga, Agile, Kanban, UI Design, Figma & Photoshop.
+**Web Development**
+- Javascript
+- Typescript
+- React.js
+- Next.js
+- ChakraUI
+- Cypress
+- Jest
+- Redux/Saga
+
+**Backend Development**
+- PHP
+- Python
+- Node.js
+- Express.js
+- PostgresSQL
+- MySQL
+- MongoDB
 
 **Here are a few examples of my work**
 - Lead developer of a public SaaS web application that automates processes for engineers and developers on AWS, such as automating backups of AWS resources with highly customizable scheduling, cross-AZ and cross-region copy, bulk management of AWS accounts with a multi-account hierarchical model, and more.
