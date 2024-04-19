@@ -27,7 +27,7 @@ Award-winning Software Engineer with 16+ years in the software development space
 - Developed the front-end of a customizable course and quiz creator for Motorola, used to create educational courses and quizzes about new products and gadgets.
 
 - Fluent in English and Portuguese.
-- Currently coursing CS50 by Harvard.
+- CS50 by Harvard.
 
 I get excited about opportunities where I'm able to work with smart people and build meaningful products that have a real human impact.
 
