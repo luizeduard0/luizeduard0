@@ -31,7 +31,6 @@ Award-winning Software Engineer with 16+ years in the software development space
 
 I get excited about opportunities where I'm able to work with smart people and build meaningful products that have a real human impact.
 
-I love connecting with new people, give me a shout at luiz@divisio.tech or here on [LinkedIn](https://www.linkedin.com/in/luizeduard0/)!
 
 <!--
 **luizeduard0/luizeduard0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
